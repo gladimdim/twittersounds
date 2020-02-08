@@ -8,7 +8,7 @@
 
 [HOLY SHIT](https://gladimdim.github.io/twittersounds/holy_shit/page.html)
 
-[LUDICRIOUS KILL](https://gladimdim.github.io/twittersounds/ludicrious_kill/page.html)
+[LUDICRIOUS KILL](https://gladimdim.github.io/twittersounds/ludicrous_kill/page.html)
 
 [MONSTER KILL](https://gladimdim.github.io/twittersounds/monster_kill_female_voice/page.html)
 
