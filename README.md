@@ -1,6 +1,6 @@
 # twittersounds
 
-[GODLIKE](https://gladimdim.github.io/twittersounds/godlike/page.html)
+[GODLIKE](https://gladimdim.github.io/twittersounds/godlike/page.html) ![Defeat](defeat/sounds.mp3?controlsList=nodownload-nofullscreen-noremoteplayback)
 
 [DEFEAT](https://gladimdim.github.io/twittersounds/defeat/page.html)
 
